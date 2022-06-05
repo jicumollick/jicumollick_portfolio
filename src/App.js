@@ -16,9 +16,9 @@ function App() {
       <Navbar></Navbar>
       <About></About>
       <Experience></Experience>
-      <Services></Services>
+      {/* <Services></Services> */}
       <Portfolio></Portfolio>
-      <Testimonial></Testimonial>
+      {/* <Testimonial></Testimonial> */}
       <Contact></Contact>
       <Footer></Footer>
     </>
